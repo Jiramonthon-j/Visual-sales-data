@@ -1,0 +1,11 @@
+Year,Month,Product ID,Product Name,Category,Units Sold,Unit Price,Salesperson,Region,Total Sales
+2023,January,P001,Laptop X1,Electronics,35,25000,Anan,Bangkok,875000
+2023,February,P001,Laptop X1,Electronics,28,25000,Anan,Bangkok,700000
+2023,March,P002,Headphone H5,Accessories,60,2000,Som,Chiang Mai,120000
+2023,April,P003,Mouse M7,Accessories,90,900,Ploy,Khon Kaen,81000
+2024,January,P001,Laptop X1,Electronics,42,26000,Anan,Bangkok,1092000
+2024,February,P002,Headphone H5,Accessories,75,2100,Som,Chiang Mai,157500
+2024,March,P003,Mouse M7,Accessories,120,950,Ploy,Khon Kaen,114000
+2025,January,P001,Laptop X1,Electronics,50,27000,Anan,Bangkok,1350000
+2025,February,P002,Headphone H5,Accessories,90,2200,Som,Chiang Mai,198000
+2025,March,P003,Mouse M7,Accessories,130,1000,Ploy,Khon Kaen,130000
